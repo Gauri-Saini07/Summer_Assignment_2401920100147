@@ -16,7 +16,7 @@ class Solution {
 }
 
 2) Remove duplicates from java
-3) class Solution {
+   class Solution {
     public int removeDuplicates(int[] nums) {
         // remove duplicates.java
        int i=0;
