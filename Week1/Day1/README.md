@@ -30,7 +30,7 @@ class Solution {
     }
 }
 3) Best time to buy and sell
-4) class Solution {
+     class Solution {
     public int maxProfit(int[] prices) {
         //buyandsell
        int minprice=prices[0];
