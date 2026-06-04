@@ -1,6 +1,6 @@
 Day_2 work
 
-1)Maximum subarray
+1) Maximum subarray
 class Solution {
     public int maxSubArray(int[] nums) {
         //subarray
