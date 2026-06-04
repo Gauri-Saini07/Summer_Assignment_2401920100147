@@ -15,6 +15,7 @@ class Solution {
             return maxsum;
     }
 }
+
 2) Contains duplicate
 class Solution {
     public boolean containsDuplicate(int[] nums) {
