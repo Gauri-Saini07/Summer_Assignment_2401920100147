@@ -1,4 +1,4 @@
-1)Find the index of the first occurence of a string
+1) Find the index of the first occurence of a string
 class Solution {
     public int strStr(String haystack, String needle) {
       for(int i=0;i<=haystack.length()-needle.length();i++) {
