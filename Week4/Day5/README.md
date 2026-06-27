@@ -4,7 +4,6 @@
         if(root==null){
             return true;}
     return isMirror(root.left,root.right);
-        
         }
     private boolean isMirror(TreeNode left, TreeNode right){
         if(left==null && right==null){
